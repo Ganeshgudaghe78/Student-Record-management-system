@@ -1,0 +1,1 @@
+These are illustrative interface previews, not screenshots captured from a running browser. For final submission, open 04_Website/index.html in your browser, test the features, and replace/add at least five genuine screenshots: add form, populated table, search result, edit form, and dashboard after records are added.
